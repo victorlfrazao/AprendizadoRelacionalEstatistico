@@ -1,0 +1,14 @@
+cliente_id,renda_mensal,score_classico,inadimplente_historico
+alice,7200,780,0
+pedro,4300,640,0
+renata,3500,590,0
+gustavo,1600,390,1
+camila,5100,710,0
+eduardo,2900,540,0
+sergio,2600,500,0
+helena,1800,420,1
+victor,8400,820,0
+larissa,3900,610,0
+mariana,4700,680,0
+joaquim,2100,470,0
+paulo,2500,520,0
